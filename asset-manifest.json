@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/speechToText/static/css/main.eda6d91b.css",
+    "main.js": "/speechToText/static/js/main.7260243c.js",
+    "index.html": "/speechToText/index.html",
+    "main.eda6d91b.css.map": "/speechToText/static/css/main.eda6d91b.css.map",
+    "main.7260243c.js.map": "/speechToText/static/js/main.7260243c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda6d91b.css",
+    "static/js/main.7260243c.js"
+  ]
+}
